@@ -1,4 +1,4 @@
 # Abhi-demo
 This is my first Git Repository.
 <br>
-Author - Abhishek Saket
+Author - Abhishek Saket from VITS College
